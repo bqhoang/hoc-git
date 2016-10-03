@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bqhoang\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\bqhoang\AndroidStudioProjects\Vidu_BMI\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e606e5c78f761f57cbd2802d74ff6ac75af6d400.jar" />
+    </item>
+    <item
+        jar="C:\Users\bqhoang\AndroidStudioProjects\Vidu_BMI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2dbf57758b5ddf4d8a4b4be8af19fc6dc3146c41">
+        <dex dex="C:\Users\bqhoang\AndroidStudioProjects\Vidu_BMI\app\build\intermediates\pre-dexed\debug\instant-run_ab5ed946c78ca717b629c11ef19f5f62c71ea7da.jar" />
+    </item>
+    <item
+        jar="C:\Users\bqhoang\AndroidStudioProjects\Vidu_BMI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7fd62103215e2a0e74d1aab321e349295f1351e4">
+        <dex dex="C:\Users\bqhoang\AndroidStudioProjects\Vidu_BMI\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e088139290782ed1f482094c02cdda46d658c3ba.jar" />
+    </item>
+
+</items>
