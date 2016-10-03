@@ -18,7 +18,7 @@ public class MainActivity extends Activity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		btnChandoan=(Button) findViewById(R.id.btntinhBMI);
-		btnChandoan.setOnClickListener(this);
+		btnChandoan.setOnClickListeer(this);
 		editTen=(EditText) findViewById(R.id.editten);
 		editChieucao=(EditText) findViewById(R.id.editchieucao);
 		editCannang=(EditText) findViewById(R.id.editcannang);
